@@ -14,7 +14,7 @@
 
 | Column         | Type    | Description                  |
 | -------------- |:-------:| ----------------------------:|
-| date           | int     | تاریخ شمسی به فرمت `YYYYMMDD  |
+| date           | int     | تاریخ شمسی به فرمت `YYYYMMDD` |
 | holiday        | boolean | پرچم برای تعطیلی رسمی در تقویم  |
 | sh_holiday     | boolean | پرچم برای تعطیلی در تاریخ شمسی  |
 | sh_description | text    | توضیحات برای تاریخ شمسی        |
