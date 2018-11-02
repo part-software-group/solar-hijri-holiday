@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+index.js
+toJson.js
+holiday.json
+package.json
+package-lock.json
+node_modules/
